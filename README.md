@@ -1,7 +1,7 @@
 # SvT
 A simple news reading application for SVT news which can be launched in the terminal.
 #DEMO 
-![Demo](SVT/demo.gif)
+![Demo](SvT/demo.gif)
 # KOMPILERING
 Man måste ha ncurses, libcurl och cjson installerat för att kunna kompilera
 
