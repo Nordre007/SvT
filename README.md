@@ -1,7 +1,7 @@
 # SvT
 A simple news reading application for SVT news which can be launched in the terminal.
 #DEMO 
-<video src="path/to/video.mp4" width="320" height="240" controls></video>
+<video src="demo.mp4" width="320" height="240" controls></video>
 # KOMPILERING
 Man måste ha ncurses, libcurl och cjson installerat för att kunna kompilera
 
