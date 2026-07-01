@@ -2,6 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include "getpage.h"
+#include "locale.h"
 
 int pageNumber = 100;
 
@@ -23,6 +24,7 @@ void display_page(int pageNumber) {
 
 
 int main() {
+    setlocale(LC_ALL, "");
     initscr();
     noecho();
     keypad(stdscr, TRUE);
